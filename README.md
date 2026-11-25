@@ -1,4 +1,4 @@
-# bounty: u-danu-how-many-tabs-do-you-have-open-d86e783d
+Entry for the bounty "u-danu-how-many-tabs-do-you-have-open-d86e783d".
 
 [![bounty](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
 [![rank](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/Till3005/tabcount2-entry/rank.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)

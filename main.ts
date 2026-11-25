@@ -1,12 +1,7 @@
-const ANSWER: string =
+const ANSWER =
   "Forty-seven open, three I can explain, and one that has been there so long it is load-bearing.";
 
-function format(line: string): string {
-  return `${line}\n`;
-}
-
-function render(line: string): void {
-  process.stdout.write(format(line));
-}
+const format = (line: string) => `${line}\n`;
+const render = (line: string) => process.stdout.write(format(line));
 
 render(ANSWER);
